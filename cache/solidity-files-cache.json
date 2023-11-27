@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/logan/Documents/personal-projects/benavente/emit-winner-event/contracts/EmitWinner.sol": {
+      "lastModificationDate": 1701124645369,
+      "contentHash": "272ecd557161aca66f7d09cd5220bdd1",
+      "sourceName": "contracts/EmitWinner.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Contract",
+        "EmitWinner"
+      ]
+    }
+  }
+}
